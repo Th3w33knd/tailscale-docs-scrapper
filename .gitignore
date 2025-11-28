@@ -1,0 +1,5 @@
+/node_modules
+/dist
+/docs_output
+.env
+.DS_Store
