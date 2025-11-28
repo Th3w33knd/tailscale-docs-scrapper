@@ -29,7 +29,6 @@ This tool spiders the Tailscale documentation starting from the installation gui
 
 ```bash
 npm install
-
 ```
 
 ----------
@@ -44,7 +43,6 @@ Bash
 
 ```
 npm start
-
 ```
 
 _Output: Markdown files will be saved to the `docs_output/` directory._
@@ -57,7 +55,6 @@ Bash
 
 ```
 npm run verify
-
 ```
 
 ### 3. Clean Workspace
@@ -68,7 +65,6 @@ Bash
 
 ```
 npm run clean
-
 ```
 
 ----------
@@ -82,5 +78,4 @@ src/
 ├── scraper.ts      # 🧠 Main scraper logic & class definitions
 ├── verify.ts       # 🔍 Integrity check script
 └── utils.ts        # 🔧 Shared utilities (URL normalization, parsing)
-
 ```
