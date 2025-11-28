@@ -1,3 +1,5 @@
+If you don't want to scape by yourself, go (here)[https://github.com/Th3w33knd/tailscale-docs-for-AI]
+
 # 🦎 Tailscale Docs Scraper
 
 ![Node Version](https://img.shields.io/badge/node-%3E%3D14.0.0-brightgreen) ![Language](https://img.shields.io/badge/language-TypeScript-blue) ![License](https://img.shields.io/badge/license-MIT-orange)
