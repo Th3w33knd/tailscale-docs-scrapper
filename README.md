@@ -71,9 +71,7 @@ npm run clean
 
 ## 📂 Project Structure
 
-Plaintext
-
-```
+```Plaintext
 src/
 ├── scraper.ts      # 🧠 Main scraper logic & class definitions
 ├── verify.ts       # 🔍 Integrity check script
