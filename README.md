@@ -39,9 +39,7 @@ npm install
 
 Compiles the TypeScript code and spiders the documentation.
 
-Bash
-
-```
+```Bash
 npm start
 ```
 
@@ -51,9 +49,7 @@ _Output: Markdown files will be saved to the `docs_output/` directory._
 
 Ensures that every link found in the sidebar has a corresponding file on your disk.
 
-Bash
-
-```
+```Bash
 npm run verify
 ```
 
@@ -61,9 +57,7 @@ npm run verify
 
 Removes the generated `dist` and `docs_output` directories.
 
-Bash
-
-```
+```Bash
 npm run clean
 ```
 
