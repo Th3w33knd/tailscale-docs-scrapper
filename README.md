@@ -1,4 +1,4 @@
-If you don't want to scape by yourself, go (here)[https://github.com/Th3w33knd/tailscale-docs-for-AI]
+If you don't want to scape by yourself, go [here](https://github.com/Th3w33knd/tailscale-docs-for-AI)
 
 # 🦎 Tailscale Docs Scraper
 
